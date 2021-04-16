@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @re-nascence
-- 👀 I’m interested in Datascience
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Neural Networks and Deep Learning
 - 📫 Linkedin : www.linkedin.com/in/rt13
 
