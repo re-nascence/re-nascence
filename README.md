@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @re-nascence
+- 👋 Hi, I’m Raunak
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Neural Networks and Deep Learning
 - 📫 Linkedin : www.linkedin.com/in/rt13
